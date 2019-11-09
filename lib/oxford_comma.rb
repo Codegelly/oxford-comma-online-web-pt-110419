@@ -8,7 +8,7 @@ def oxford_comma(array)
 elsif array.length > 2 
   return ("")
 else 
-  return array.join
+  return array.length
   end
 end 
  
