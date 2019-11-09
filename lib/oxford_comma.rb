@@ -3,11 +3,11 @@
 # end 
 def oxford_comma(array)
   if array.length == 2
-    return ( " and " )
+    return (" and ")
 elsif array.length > 2 
-  return ( " and " )
+  return (" and ")
 else 
-  return array.join ( " and " )
+  return array.join (" and ")
   
   end
 end 
