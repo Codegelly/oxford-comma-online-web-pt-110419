@@ -1,7 +1,7 @@
 # def oxford_comma(array)
 # array.join("")
 # end 
-def oxford_comma(array)
+def oxford_comma(" and ")
 #array.join("")
   if array.length == 2
     return ( " and " )
